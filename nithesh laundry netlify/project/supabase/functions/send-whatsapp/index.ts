@@ -6,9 +6,9 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const WHATSAPP_API_URL = "https://graph.facebook.com/v17.0/YOUR_PHONE_NUMBER_ID/messages";
-const WHATSAPP_ACCESS_TOKEN = Deno.env.get("WHATSAPP_ACCESS_TOKEN");
-const BUSINESS_PHONE_NUMBER = "+91XXXXXXXXXX"; // Your business phone number
+const WHATSAPP_API_URL = "https://graph.facebook.com/v17.0/1117221323499912/messages";
+const WHATSAPP_ACCESS_TOKEN = Deno.env.get("EAAUr4QifeJMBOZBNarLAMAfVRnh4IqVBXaauSZAtArOlOg2EF4UGAFacmDCgOm0ZBRBf2Gze4zCv64feyJbJlr4ovfveJFpYNn9mhfGzWGalSwtRlpQuRWYWLbwgm9QpIacPt6ZCIeUFTk5OpZBGKbeRhLZB3Dvr88Xx9TK9b7NJzsJgn7SMr03xqBgZCb0udHotsZCSgs8aP7F4nPZADQZBJmH2fq9z4gZAk5w2KILEIG78BppUv18ZCRbW6ZBhDEnWIrQ8ZD");
+const BUSINESS_PHONE_NUMBER = "+918838547515"; // Your business phone number
 
 Deno.serve(async (req) => {
   if (req.method === "OPTIONS") {
