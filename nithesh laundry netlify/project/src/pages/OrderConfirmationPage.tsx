@@ -7,7 +7,7 @@ const OrderConfirmationPage: React.FC = () => {
   const { currentOrder, clearCart } = useOrderStore();
   
   useEffect(() => {
-    document.title = 'Order Confirmation - Pristine Laundry';
+    document.title = 'Order Confirmation - Wrinkl Laundry';
     
     // Clear the cart after confirmation
     clearCart();
@@ -39,7 +39,7 @@ const OrderConfirmationPage: React.FC = () => {
           </div>
           <h1 className="text-2xl font-bold text-gray-900 mb-2">Order Confirmed!</h1>
           <p className="text-lg text-gray-600">
-            Thank you for choosing Pristine Laundry. We'll contact you soon.
+            Thank you for choosing Wrinkl Laundry. We'll contact you soon.
           </p>
         </div>
         
@@ -79,7 +79,7 @@ const OrderConfirmationPage: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <span className="flex items-center justify-center w-6 h-6 rounded-full bg-blue-100 text-blue-600 text-sm font-semibold mr-2 flex-shrink-0">3</span>
-                <span>Your clean laundry will be delivered within 24-48 hours.</span>
+                <span>Your clean laundry will be delivered quickly.</span>
               </li>
             </ol>
           </div>
