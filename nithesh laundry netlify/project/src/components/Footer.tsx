@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Shirt className="w-8 h-8 text-blue-400" />
-              <span className="text-xl font-bold text-white">Pristine Laundry</span>
+              <span className="text-xl font-bold text-white">Wrinkl Laundry</span>
             </div>
             <p className="mb-4 text-sm">
               Professional laundry services that bring freshness and cleanliness to your wardrobe.
@@ -40,15 +40,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-2">
                 <Phone className="w-5 h-5 text-blue-400 shrink-0 mt-0.5" />
-                <span>+91 9876543210</span>
+                <span>+91 8838547515</span>
               </li>
               <li className="flex items-start space-x-2">
                 <Mail className="w-5 h-5 text-blue-400 shrink-0 mt-0.5" />
-                <span>contact@pristinelaundry.com</span>
+                <span>wrinklcontact@gmail.com</span>
               </li>
               <li className="flex items-start space-x-2">
                 <MapPin className="w-5 h-5 text-blue-400 shrink-0 mt-0.5" />
-                <span>123 Laundry Street, Clean City, 560001</span>
+                <span>Chennai</span>
               </li>
             </ul>
           </div>
@@ -76,7 +76,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="pt-8 mt-8 border-t border-gray-800 text-sm text-center">
-          <p>&copy; {new Date().getFullYear()} Pristine Laundry. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Wrinkl Laundry. All rights reserved.</p>
         </div>
       </div>
     </footer>
