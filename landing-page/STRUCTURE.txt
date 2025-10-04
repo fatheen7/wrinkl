@@ -1,0 +1,261 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                      WRINKL LANDING PAGE STRUCTURE                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📱 NAVIGATION (Fixed Top)
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  Wrinkl    |    Home    About    Our Edge    Contact    |    ☰              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+🎥 BACKGROUND VIDEO (Full Screen, Behind All Content)
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                     [Looping Background Video]                               │
+│                        [Gradient Overlay]                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+SECTION 1: HERO / HOME (#home)
+════════════════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│                                                                              │
+│                     Welcome to [Wrinkl]                                      │
+│                     (gradient animated text)                                 │
+│                                                                              │
+│              Transforming the way you experience innovation                  │
+│                                                                              │
+│         We're building the future of seamless interaction and                │
+│                     powerful solutions                                       │
+│                                                                              │
+│              [Learn More Button]  [Get Started Button]                       │
+│                                                                              │
+│                         [Scroll Indicator]                                   │
+│                            (animated)                                        │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+SECTION 2: ABOUT WRINKL (#about)
+════════════════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          About Wrinkl                                        │
+│                          ──────────                                          │
+│                  Redefining excellence through innovation                    │
+│                                                                              │
+│  ┌────────────────────┐  ┌────────────────────┐  ┌────────────────────┐   │
+│  │   [Icon: Layers]   │  │   [Icon: Clock]    │  │   [Icon: Users]    │   │
+│  │   Our Mission      │  │   Our Vision       │  │   Our Team         │   │
+│  │                    │  │                    │  │                    │   │
+│  │   Description...   │  │   Description...   │  │   Description...   │   │
+│  └────────────────────┘  └────────────────────┘  └────────────────────┘   │
+│                          (hover to lift up)                                  │
+│                                                                              │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐                   │
+│  │   500+   │  │  1000+   │  │    50    │  │    15    │                   │
+│  │ Projects │  │ Clients  │  │   Team   │  │Countries │                   │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘                   │
+│                (animated counters on scroll)                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+SECTION 3: HOW WE'RE DIFFERENT / OUR EDGE (#edge)
+════════════════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                      How We're Different                                     │
+│                      ────────────────────                                    │
+│              Our competitive advantages that set us apart                    │
+│                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────┐     │
+│  │  01  │  Lightning Fast Performance                                 │     │
+│  │      │  Our cutting-edge infrastructure ensures...                 │     │
+│  │      │  ✓ Optimized for speed                                      │     │
+│  │      │  ✓ Real-time processing                                     │     │
+│  │      │  ✓ Scalable architecture                                    │     │
+│  └────────────────────────────────────────────────────────────────────┘     │
+│                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────┐     │
+│  │  02  │  AI-Powered Intelligence                                    │     │
+│  │      │  Leverage the power of advanced AI...                       │     │
+│  │      │  ✓ Machine learning algorithms                              │     │
+│  │      │  ✓ Predictive analytics                                     │     │
+│  │      │  ✓ Smart automation                                         │     │
+│  └────────────────────────────────────────────────────────────────────┘     │
+│                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────┐     │
+│  │  03  │  Security First Approach                                    │     │
+│  │      │  Bank-grade security with end-to-end...                     │     │
+│  │      │  ✓ End-to-end encryption                                    │     │
+│  │      │  ✓ Multi-factor authentication                              │     │
+│  │      │  ✓ Regular security audits                                  │     │
+│  └────────────────────────────────────────────────────────────────────┘     │
+│                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────┐     │
+│  │  04  │  Seamless Integration                                       │     │
+│  │      │  Effortlessly integrate with existing tools...              │     │
+│  │      │  ✓ RESTful API access                                       │     │
+│  │      │  ✓ 100+ integrations                                        │     │
+│  │      │  ✓ Custom webhook support                                   │     │
+│  └────────────────────────────────────────────────────────────────────┘     │
+│                        (slide in on scroll)                                  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+SECTION 4: CONTACT / CALL-TO-ACTION (#contact)
+════════════════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          Get In Touch                                        │
+│                          ──────────────                                      │
+│            Ready to transform your experience? Let's connect.                │
+│                                                                              │
+│  ┌─────────────────────────┐  ┌──────────────────────────────────────┐     │
+│  │  [Icon: Location]       │  │  [Contact Form]                      │     │
+│  │  Location                │  │  ┌────────────────────────────────┐ │     │
+│  │  123 Innovation Drive    │  │  │ Your Name                      │ │     │
+│  │                          │  │  └────────────────────────────────┘ │     │
+│  │  [Icon: Email]           │  │  ┌────────────────────────────────┐ │     │
+│  │  Email                   │  │  │ Your Email                     │ │     │
+│  │  hello@wrinkl.com        │  │  └────────────────────────────────┘ │     │
+│  │  support@wrinkl.com      │  │  ┌────────────────────────────────┐ │     │
+│  │                          │  │  │ Subject                        │ │     │
+│  │  [Icon: Phone]           │  │  └────────────────────────────────┘ │     │
+│  │  Phone                   │  │  ┌────────────────────────────────┐ │     │
+│  │  +1 (555) 123-4567       │  │  │ Your Message                   │ │     │
+│  │                          │  │  │                                │ │     │
+│  │                          │  │  └────────────────────────────────┘ │     │
+│  │                          │  │  [Send Message Button →]            │     │
+│  └─────────────────────────┘  └──────────────────────────────────────┘     │
+│                                                                              │
+│  ┌────────────────────────────────────────────────────────────────────┐     │
+│  │            🎯 Ready to Get Started?                                │     │
+│  │    Join thousands of satisfied customers already using Wrinkl      │     │
+│  │                                                                    │     │
+│  │    [Start Free Trial Button]  [Schedule Demo Button]              │     │
+│  └────────────────────────────────────────────────────────────────────┘     │
+│                     (gradient background, prominent)                         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+FOOTER
+════════════════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  ┌──────────────────┐  ┌───────────┐  ┌───────────┐  ┌───────────┐         │
+│  │  Wrinkl          │  │  Product  │  │  Company  │  │ Resources │         │
+│  │  Transforming... │  │  Features │  │  About    │  │  Docs     │         │
+│  │                  │  │  Pricing  │  │  Blog     │  │  API      │         │
+│  │  [T] [L] [G]     │  │  Security │  │  Careers  │  │  Support  │         │
+│  │  (social links)  │  │  Roadmap  │  │  Contact  │  │ Community │         │
+│  └──────────────────┘  └───────────┘  └───────────┘  └───────────┘         │
+│                                                                              │
+│  ────────────────────────────────────────────────────────────────────────   │
+│                                                                              │
+│  © 2025 Wrinkl. All rights reserved.                                        │
+│  Privacy Policy  |  Terms of Service  |  Cookie Policy                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           INTERACTIVE FEATURES                               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+✨ ANIMATIONS & EFFECTS:
+  • Smooth scroll between sections
+  • Fade-in animations on scroll
+  • Animated statistics counters
+  • Parallax effect on hero section
+  • Hover effects on cards and buttons
+  • Ripple effect on button clicks
+  • Gradient animation on hero title
+  • Scroll indicator animation
+
+📱 RESPONSIVE BEHAVIOR:
+  • Desktop (1200px+): Full layout with all features
+  • Tablet (768px-1199px): Adapted grid layouts
+  • Mobile (<768px): Hamburger menu, stacked layouts
+  • Touch-optimized buttons and interactions
+
+🎥 VIDEO FEATURES:
+  • Auto-play background video
+  • Looping seamlessly
+  • Pause when tab not visible (performance)
+  • Gradient fallback if video doesn't load
+  • Mobile-friendly (poster fallback)
+
+🎨 INTERACTIVE ELEMENTS:
+  • Sticky navigation with scroll effect
+  • Active section highlighting in nav
+  • Mobile hamburger menu (animated)
+  • Contact form with validation
+  • Success notification system
+  • All links with smooth hover transitions
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                            COLOR SCHEME                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Primary:    #6366f1 (Indigo)       [■■■■]
+Secondary:  #ec4899 (Pink)         [■■■■]
+Accent:     #14b8a6 (Teal)         [■■■■]
+Text:       #ffffff (White)        [■■■■]
+Background: Dark overlay + Video   [■■■■]
+
+Gradient: Purple → Pink → Teal (animated)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          TECHNICAL STACK                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+HTML5:      344 lines   • Semantic markup
+CSS3:      1024 lines   • Modern features, animations
+JavaScript: 420 lines   • Vanilla JS, no frameworks
+
+Total Code: ~1,788 lines
+File Size:  ~60 KB (excluding video)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          FILE STRUCTURE                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+landing-page/
+├── index.html                  Main HTML file with all sections
+├── css/
+│   └── styles.css             Complete styling and animations
+├── js/
+│   └── script.js              All interactive features
+├── assets/
+│   └── .gitkeep               (Place background-video.mp4 here)
+├── README.md                   Comprehensive documentation
+├── QUICK-START.md             Quick setup guide (3 steps)
+├── VIDEO-SOURCES.md           Video recommendations & sources
+├── PROJECT-SUMMARY.md         Complete project overview
+└── STRUCTURE.txt              This file (visual structure)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        QUICK START (3 STEPS)                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+1. Start local server:
+   $ cd landing-page
+   $ python -m http.server 8000
+   Open: http://localhost:8000
+
+2. Add background video:
+   Place video file as: assets/background-video.mp4
+   (See VIDEO-SOURCES.md for recommendations)
+
+3. Customize:
+   • Edit index.html for content
+   • Edit css/styles.css for colors
+   • All ready for your pitch event!
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                     YOU'RE ALL SET! 🚀                                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
